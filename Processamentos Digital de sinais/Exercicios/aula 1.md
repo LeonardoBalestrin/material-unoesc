@@ -1,0 +1,2 @@
+Energia e potencia
+

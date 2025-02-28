@@ -1,0 +1,1 @@
+Utilize Obsidian para melhor leitura desta documentação.
