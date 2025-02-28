@@ -1,0 +1,1 @@
+alguns exercícios em slides+ fazer um algoritimo onde definimos o tamanho da janela e ele entrega uma media movel 
