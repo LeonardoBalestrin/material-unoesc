@@ -1,0 +1,1 @@
+todo tipo de contaminação que pode degradar a composição natural de um meio
