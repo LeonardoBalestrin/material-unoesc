@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"685f7d03b1ce7fc3","type":"file","file":"Redes de Computadores/atividades/Taxa de transmissão e geração de amostras.md","x":-540,"y":-306,"width":400,"height":400},
-		{"id":"98997fe78a01adb2","x":-540,"y":380,"width":400,"height":200,"type":"file","file":"Redes de Computadores/atividades/Transmissão com taxa correta.md"},
+		{"id":"98997fe78a01adb2","type":"file","file":"Redes de Computadores/atividades/Transmissão com taxa correta.md","x":-540,"y":380,"width":400,"height":200},
 		{"id":"e596fb6d8c2f75f9","type":"file","file":"images/frequencia correta s filtro.png","x":-108,"y":300,"width":621,"height":334},
 		{"id":"53f6c4b4716d614f","type":"file","file":"images/informacao-errada.png","x":-59,"y":-59,"width":572,"height":307},
 		{"id":"df5fd0848cad161b","type":"file","file":"images/informacao-errada-indica-deslocamento.png","x":-61,"y":-371,"width":574,"height":265}
