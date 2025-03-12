@@ -1,0 +1,2 @@
+no processamento de sinais, a taxa de transferência ou *baudrate* é importantíssima para determinar se a comunicação vai ser bem sucedida, se a taxa for menor do que a frequência mínima das gerações de amostra, ocasiona situações onde o a transmissão encerra(ou completa um ciclo) e nem todos os dados/informações foram transmitidas gerando perdas e informações incompletas e portanto Incorretas.
+No exemplo é mostrado como uma transmissão de um sinal de 60Hz é deslocado pela taxa de transmissão errada 
