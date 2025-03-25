@@ -1,5 +1,16 @@
 ### Ethernet
 - Método(acesso multiplo por detecção de portadora com detecção de colisão)
 - CSMA/CD
-	- hosts tentam testam o meio fisico antes de transmitir, e testam até a rede estar livre, no momento que estiver livre envia bits para a rede
+	- hosts tentam testam o meio físico antes de transmitir, e testam até a rede estar livre, no momento que estiver livre envia bits para a rede
 	- deixa a lenta se houverem muitos hosts
+- HUB 
+	- é um equipamento que permite conexão em vários hosts, porém é um método onde um transmite para vários, causando muitas possíveis colisões  resultando em lentidão
+- Switch
+	- pode empilhar varios switches para aumentar os numeros de hosts na rede
+	-  pode ser um core que faz o mesmo mas através de canais de fibra interliga switches uns nos outros
+	- Switches SPINE: são mais caros e muito mais velozes, utilizados para primeira camada para agilizar os fluxos
+	- Switches LEAF: são as camadas secundarias onde os SPINEs chegam, são mais proximos do host e portanto não necessitam tanta velocidade
+- Roteadores
+	- diferente do hub e switch que funcionam só localmente, o roteador liga rede wan com rede lan(conecta na internet)
+	- funciona como gatway padrão
+	- 
