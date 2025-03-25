@@ -6,11 +6,11 @@
 - HUB 
 	- é um equipamento que permite conexão em vários hosts, porém é um método onde um transmite para vários, causando muitas possíveis colisões  resultando em lentidão
 - Switch
-	- pode empilhar varios switches para aumentar os numeros de hosts na rede
+	- pode empilhar vários switches para aumentar os números de hosts na rede
 	-  pode ser um core que faz o mesmo mas através de canais de fibra interliga switches uns nos outros
 	- Switches SPINE: são mais caros e muito mais velozes, utilizados para primeira camada para agilizar os fluxos
-	- Switches LEAF: são as camadas secundarias onde os SPINEs chegam, são mais proximos do host e portanto não necessitam tanta velocidade
+	- Switches LEAF: são as camadas secundarias onde os SPINEs chegam, são mais próximos do host e portanto não necessitam tanta velocidade
 - Roteadores
-	- diferente do hub e switch que funcionam só localmente, o roteador liga rede wan com rede lan(conecta na internet)
-	- funciona como gatway padrão
+	- diferente do hub e switch que funcionam só localmente, o roteador liga rede WAN com rede LAN(conecta na internet)
+	- funciona como gateway padrão
 	- 
