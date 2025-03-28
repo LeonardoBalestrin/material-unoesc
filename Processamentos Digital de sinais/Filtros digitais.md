@@ -1,1 +1,0 @@
-Filtros em imagens, interagem com pixels, uma grande variação da cor em poucos pixels, então seria equivalente a uma *frequência alta* 
