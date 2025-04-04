@@ -37,3 +37,5 @@ $$
 
 > [!NOTE] Simetrias:
 > Simetria impar X(t) = -X(-t) Simetria Par      X(t) = X(-t)
+
+Espectro de Amplitude e fase
