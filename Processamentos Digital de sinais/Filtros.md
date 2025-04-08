@@ -7,3 +7,8 @@ Filtro de reconstrução: é um filtro de saída PB onde a frequência de corte 
 $$ FC<Fs
 $$
 
+Uma forma de criar um filtro passa baixa pelo circuito é utilizando um resistor e um capacitor de forma que a frequência de corte desejada depende de uma escolher uma resistência, através da seguinte formula:
+$$
+Fc=1/{2\pi RC}
+$$
+Normalmente, indica-se a frequência desejada, e o Capacitor, e calcula a resistência necessária, por resistores terem mais variedade.
