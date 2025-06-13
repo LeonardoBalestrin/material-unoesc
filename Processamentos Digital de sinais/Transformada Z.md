@@ -42,3 +42,6 @@ Resultando na Função de Transferência
 $$ 
 H(Z) = {Y(Z)/X(Z)} = b_0/{1-a_1Z^{-1}-a_2Z^{-2}}
 $$
+Este filtro é um IIR(Ifinite Impulse Response), um filtro que responde a cada amostra que tiver, com um atraso
+
+
